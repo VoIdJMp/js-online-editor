@@ -1,0 +1,2 @@
+(this["webpackJsonpjs-online-editor"]=this["webpackJsonpjs-online-editor"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var r=t(1),i=t.n(r),s=t(3),c=t.n(s),o=t(0);var j=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("h1",{children:" JS Online Editor (by tjs-libs) "})})};c.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(j,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.ce801e43.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpjs-online-editor"]=this["webpackJsonpjs-online-editor"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var r=t(1),i=t.n(r),c=t(3),o=t.n(c),s=t(0);var d=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h1",{children:" JS Online Editor (by VoIdJMp) "})})};o.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.ac2b9b7f.chunk.js.map
