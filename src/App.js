@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1> JS Online Editor (by tjs-libs) </h1>
+      <h1> JS Online Editor (by tjs-libs) :D </h1>
     </>
   );
 }
