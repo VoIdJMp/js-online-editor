@@ -2,12 +2,14 @@ module.exports = {
   extends: ['airbnb', 'prettier', 'plugin:jsx-a11y/recommended', 'plugin:react-hooks/recommended'],
   parser: 'babel-eslint',
   parserOptions: {
-    ecmaVersion: 8,
     ecmaFeatures: {
       experimentalObjectRestSpread: true,
       impliedStrict: true,
       classes: true,
+      jsx: true,
     },
+    ecmaVersion: 12,
+    sourceType: 'module',
   },
   env: {
     browser: true,
