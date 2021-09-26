@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/js-online-editor/static/css/main.c4fa6e4c.chunk.css",
-    "main.js": "/js-online-editor/static/js/main.5bc18df9.chunk.js",
-    "main.js.map": "/js-online-editor/static/js/main.5bc18df9.chunk.js.map",
+    "main.css": "/js-online-editor/static/css/main.78a29e2d.chunk.css",
+    "main.js": "/js-online-editor/static/js/main.3b34bac0.chunk.js",
+    "main.js.map": "/js-online-editor/static/js/main.3b34bac0.chunk.js.map",
     "runtime-main.js": "/js-online-editor/static/js/runtime-main.71e7db96.js",
     "runtime-main.js.map": "/js-online-editor/static/js/runtime-main.71e7db96.js.map",
-    "static/css/2.95f46392.chunk.css": "/js-online-editor/static/css/2.95f46392.chunk.css",
+    "static/css/2.68e5f3a7.chunk.css": "/js-online-editor/static/css/2.68e5f3a7.chunk.css",
     "static/js/2.e83881f9.chunk.js": "/js-online-editor/static/js/2.e83881f9.chunk.js",
     "static/js/2.e83881f9.chunk.js.map": "/js-online-editor/static/js/2.e83881f9.chunk.js.map",
     "index.html": "/js-online-editor/index.html",
-    "static/css/2.95f46392.chunk.css.map": "/js-online-editor/static/css/2.95f46392.chunk.css.map",
-    "static/css/main.c4fa6e4c.chunk.css.map": "/js-online-editor/static/css/main.c4fa6e4c.chunk.css.map",
+    "static/css/2.68e5f3a7.chunk.css.map": "/js-online-editor/static/css/2.68e5f3a7.chunk.css.map",
+    "static/css/main.78a29e2d.chunk.css.map": "/js-online-editor/static/css/main.78a29e2d.chunk.css.map",
     "static/js/2.e83881f9.chunk.js.LICENSE.txt": "/js-online-editor/static/js/2.e83881f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.71e7db96.js",
-    "static/css/2.95f46392.chunk.css",
+    "static/css/2.68e5f3a7.chunk.css",
     "static/js/2.e83881f9.chunk.js",
-    "static/css/main.c4fa6e4c.chunk.css",
-    "static/js/main.5bc18df9.chunk.js"
+    "static/css/main.78a29e2d.chunk.css",
+    "static/js/main.3b34bac0.chunk.js"
   ]
 }
